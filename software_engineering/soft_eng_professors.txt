@@ -1,0 +1,117 @@
+Georgia Institute of Technology,Alex Orso
+Georgia Institute of Technology,Qirun Zhang
+Stanford University,Alex Aiken
+Stanford University,Dawson Engler
+Harvard University,Douglas Lloyd
+Harvard University,David Malan
+Harvard University,Stuart Shieber
+Harvard University,Eddie Kohler
+Harvard University,Michael Smith
+University of California San Diego,William Griswold
+University of Southern California,Barry Boehm
+University of Southern California,Claire Bono
+University of Southern California,Shahram Ghandeharizadeh
+University of Southern California,William Halfond
+University of Southern California,John Heidemann
+University of Southern California,Supannika Koolmanojwong
+University of Southern California,Bhaskar Krishnamachari
+University of Southern California,Christian Mattmann
+University of Southern California,Nenad Medvidovic
+University of Southern California,Jeffrey Miller
+University of Southern California,Barath Raghavan
+University of Southern California,Mukund Raghothaman
+University of Southern California,Chao Wang
+University of Southern California,John Wilson
+University of Washington,Rastislav Bodik
+University of Washington,Luis Ceze
+University of Washington,Michael Ernst
+University of Washington,Dan Grossman
+University of Washington,René Just
+University of Washington,Amy Ko
+University of Washington,Zachary Tatlock
+University of Washington,Emina Torlak
+University of Washington,Xi Wang
+Carnegie Mellon University,Jonathan Aldrich
+Carnegie Mellon University,David Garlan
+Carnegie Mellon University,Robert Harper
+Carnegie Mellon University,Bradley Schmerl
+Carnegie Mellon University,Mary Shaw
+Carnegie Mellon University,Jeannette Wing
+Carnegie Mellon University,Bryan Parno
+Carnegie Mellon University,Jean Yang
+University of California Berkeley,Phillip Colella
+University of California Berkeley,Armando Fox
+University of California Berkeley,Michael Ball
+University of California Los Angeles (UCLA),Alfonso Cardenas
+University of California Los Angeles (UCLA),Paul Eggert
+University of California Los Angeles (UCLA),Miryung Kim
+University of California Los Angeles (UCLA),Todd Millstein
+University of California Los Angeles (UCLA),Tony Nowatzki
+University of California Los Angeles (UCLA),Jens Palsberg
+University of California Los Angeles (UCLA),Harry Xu
+University of Texas at Austin,Suzanne Barber
+University of Texas at Austin,Mattan Erez
+University of Texas at Austin,Vijay Garg
+University of Texas at Austin,Joydeep Ghosh
+University of Texas at Austin,Milos Gligoric
+University of Texas at Austin,Lizy John
+University of Texas at Austin,Christine Julien
+University of Texas at Austin,Sarfraz Khurshid
+University of Texas at Austin,Dewayne Perry
+University of Texas at Austin,David Soloveichik
+University of Texas at Austin,Vijay Janapa Reddi
+University of Toronto,Marsha Chechik
+University of Toronto,Steve Easterbrook
+University of Toronto,Azadeh Farzan
+University of Toronto,Eric Hehner
+University of Toronto,Kelly Lyons
+University of Toronto,John Mylopoulos
+University of Toronto,Eric Yu
+University of Alberta,Karim Ali
+University of Alberta,Abram Hindle
+University of Alberta,Sarah Nadi
+University of Alberta,Eleni Stroulia
+University of Alberta,Ken Wong
+University of Ottawa,Daniel Amyot
+University of Ottawa,Gregor Bochmann
+University of Ottawa,Lionel Briand
+University of Ottawa,Amy Felty
+University of Ottawa,Guy-Vincent Jourdan
+University of Ottawa,Timothy Lethbridge
+University of Ottawa,Liam Peyton
+University of Ottawa,Stephane Some
+University of Ottawa,Hasan Ural
+Simon Fraser University,Robert Cameron
+Simon Fraser University,Veronica Dahl
+Simon Fraser University,Uwe Glasser
+Simon Fraser University,William Sumner
+Carleton University,Douglas Howe
+Carleton University,Louis Nel
+Carleton University,Robert Biddle
+Carleton University,Jean-Pierre Corriveau
+Carleton University,Dwight Deugo
+McGill University,Jin Guo
+McGill University,Elizabeth Patitsas
+McGill University,Martin Robillard
+McGill University,Hans Vangheluwe
+McGill University,Laurie Hendren
+University of British Columbia,Ivan Beschastnikh
+University of British Columbia,Reid Holmes
+University of British Columbia,Gail Murphy
+University of Waterloo,Gema Rodriguez-Perez
+University of Waterloo,Werner Dietl
+University of Waterloo,Lin Tan
+University of Waterloo,Victoria Sakhnini
+University of Waterloo,Mei Nagappan
+University of Waterloo,Arie Gurfinkel
+University of Waterloo,Bradley Lushman
+University of Waterloo,Nomair Naeem
+University of Waterloo,Chantelle Gellert
+University of Waterloo,Paulo Alencar
+University of Waterloo,Joanne Atlee
+University of Waterloo,Daniel Berry
+University of Waterloo,Donald Cowan
+University of Waterloo,Nancy Day
+University of Waterloo,Michael Godfrey
+University of Waterloo,Chengnian Sun
+University of Waterloo,Richard Trefler

@@ -1,0 +1,181 @@
+University                        ,Department      ,Name                   ,Course No.
+Harvard University                ,Computer Science,David Malan            ,CS75
+Harvard University                ,Computer Science,David Malan            ,CSCIE75
+Harvard University                ,Computer Science,David Malan            ,SIEL
+University of California San Diego,Computer Science,William Griswold       ,CSE218
+University of California San Diego,Computer Science,William Griswold       ,CSE110
+University of Southern California ,Computer Science,Barry Boehm            ,CSCI510
+University of Southern California ,Computer Science,Barry Boehm            ,CSCI577510
+University of Southern California ,Computer Science,Barry Boehm            ,CS510
+University of Southern California ,Computer Science,Barry Boehm            ,SE
+University of Southern California ,Computer Science,Claire Bono            ,CSCI455
+University of Southern California ,Computer Science,Claire Bono            ,CS455
+University of Southern California ,Computer Science,Claire Bono            ,455X
+University of Southern California ,Computer Science,Claire Bono            ,CSCI201
+University of Southern California ,Computer Science,Shahram Ghandeharizadeh,CSCI585
+University of Southern California ,Computer Science,William Halfond        ,CSCI310
+University of Southern California ,Computer Science,William Halfond        ,ENGR102
+University of Southern California ,Computer Science,William Halfond        ,CC310
+University of Southern California ,Computer Science,William Halfond        ,CS310
+University of Southern California ,Computer Science,William Halfond        ,CSCI 310
+University of Southern California ,Computer Science,Supannika Koolmanojwong,CSCI577A
+University of Southern California ,Computer Science,Supannika Koolmanojwong,CSCI577B
+University of Southern California ,Computer Science,Supannika Koolmanojwong,CSCI477
+University of Southern California ,Computer Science,Supannika Koolmanojwong,CSCI511
+University of Southern California ,Computer Science,Supannika Koolmanojwong,CSCI577
+University of Southern California ,Computer Science,Bhaskar Krishnamachari ,EE250
+University of Southern California ,Computer Science,Bhaskar Krishnamachari ,EE465
+University of Southern California ,Computer Science,Bhaskar Krishnamachari ,EE450EE59
+University of Southern California ,Computer Science,Nenad Medvidovic       ,CSCI578
+University of Southern California ,Computer Science,Nenad Medvidovic       ,CS578
+University of Southern California ,Computer Science,Nenad Medvidovic       ,CS589
+University of Southern California ,Computer Science,Nenad Medvidovic       ,CSCI589
+University of Southern California ,Computer Science,Nenad Medvidovic       ,578
+University of Southern California ,Computer Science,Nenad Medvidovic       ,ARCHITECTURE
+University of Southern California ,Computer Science,Jeffrey Miller         ,201L
+University of Southern California ,Computer Science,Jeffrey Miller         ,CSCI201L
+University of Southern California ,Computer Science,Jeffrey Miller         ,CS401
+University of Southern California ,Computer Science,Jeffrey Miller         ,CS477
+University of Southern California ,Computer Science,Jeffrey Miller         ,201
+University of Southern California ,Computer Science,Jeffrey Miller         ,CSCI477A
+University of Southern California ,Computer Science,Jeffrey Miller         ,477A
+University of Southern California ,Computer Science,Jeffrey Miller         ,CS477A
+University of Southern California ,Computer Science,Jeffrey Miller         ,29991R
+University of Washington          ,Computer Science,Luis Ceze              ,CSE351
+University of Washington          ,Computer Science,Michael Ernst          ,CSE331
+University of Washington          ,Computer Science,Michael Ernst          ,CSE403
+University of Washington          ,Computer Science,Amy Ko                 ,INFO461
+University of Washington          ,Computer Science,Amy Ko                 ,INFO360
+University of California Berkeley ,Computer Science,Armando Fox            ,CS169
+University of Texas at Austin     ,Computer Science,Milos Gligoric         ,EE312H
+University of Texas at Austin     ,Computer Science,Milos Gligoric         ,EE312
+University of Texas at Austin     ,Computer Science,Dewayne Perry          ,EE422C
+University of Texas at Austin     ,Computer Science,Vijay Janapa Reddi     ,EE464K
+University of Texas at Austin     ,Computer Science,Vijay Janapa Reddi     ,EE319K
+University of Toronto             ,Computer Science,Steve Easterbrook      ,ENV361
+University of Toronto             ,Computer Science,Steve Easterbrook      ,CSC302
+University of Toronto             ,Computer Science,Steve Easterbrook      ,CSC340
+University of Toronto             ,Computer Science,Steve Easterbrook      ,REQENG
+University of Toronto             ,Computer Science,Steve Easterbrook      ,CSC2106
+University of Toronto             ,Computer Science,Steve Easterbrook      ,340
+University of Toronto             ,Computer Science,Azadeh Farzan          ,CSC410
+University of Toronto             ,Computer Science,Azadeh Farzan          ,CSC230101
+University of Toronto             ,Computer Science,Eric Hehner            ,CSC465
+University of Toronto             ,Computer Science,Kelly Lyons            ,INF2040
+University of Toronto             ,Computer Science,Kelly Lyons            ,20401
+University of Toronto             ,Computer Science,Eric Yu                ,INF1342
+University of Toronto             ,Computer Science,Eric Yu                ,INF1341
+University of Alberta             ,Computer Science,Abram Hindle           ,CMPUT404
+University of Alberta             ,Computer Science,Abram Hindle           ,CMPUT301
+University of Alberta             ,Computer Science,Abram Hindle           ,CMPUT410
+University of Alberta             ,Computer Science,Abram Hindle           ,301
+University of Alberta             ,Computer Science,Sarah Nadi             ,CMPUT201
+University of Alberta             ,Computer Science,Eleni Stroulia         ,THES990
+University of Alberta             ,Computer Science,Eleni Stroulia         ,CMPUT401
+University of Alberta             ,Computer Science,Eleni Stroulia         ,CMP401
+University of Alberta             ,Computer Science,Eleni Stroulia         ,CMPUT301401
+University of Alberta             ,Computer Science,Eleni Stroulia         ,CMPT102
+University of Alberta             ,Computer Science,Eleni Stroulia         ,CMPUT301410
+University of Alberta             ,Computer Science,Eleni Stroulia         ,401
+University of Alberta             ,Computer Science,Eleni Stroulia         ,C301
+University of Alberta             ,Computer Science,Eleni Stroulia         ,CMP661
+University of Ottawa              ,Computer Science,Daniel Amyot           ,CSI5112
+University of Ottawa              ,Computer Science,Daniel Amyot           ,ITI1620
+University of Ottawa              ,Computer Science,Daniel Amyot           ,SEG3101
+University of Ottawa              ,Computer Science,Daniel Amyot           ,SEG2901
+University of Ottawa              ,Computer Science,Daniel Amyot           ,SWENG
+University of Ottawa              ,Computer Science,Daniel Amyot           ,ITI1520
+University of Ottawa              ,Computer Science,Daniel Amyot           ,SEG3700
+University of Ottawa              ,Computer Science,Gregor Bochmann        ,SEG2106
+University of Ottawa              ,Computer Science,Gregor Bochmann        ,SEG2506
+University of Ottawa              ,Computer Science,Gregor Bochmann        ,SEG2501
+University of Ottawa              ,Computer Science,Gregor Bochmann        ,SEG2101
+University of Ottawa              ,Computer Science,Amy Felty              ,CSI5137
+University of Ottawa              ,Computer Science,Amy Felty              ,CSI5110
+University of Ottawa              ,Computer Science,Guy-Vincent Jourdan    ,CSI4139
+University of Ottawa              ,Computer Science,Guy-Vincent Jourdan    ,EMP5102
+University of Ottawa              ,Computer Science,Guy-Vincent Jourdan    ,EMP51025117
+University of Ottawa              ,Computer Science,Guy-Vincent Jourdan    ,EMP51175102
+University of Ottawa              ,Computer Science,Guy-Vincent Jourdan    ,ENG5117
+University of Ottawa              ,Computer Science,Guy-Vincent Jourdan    ,EMP5117
+University of Ottawa              ,Computer Science,Timothy Lethbridge     ,CSI5122
+University of Ottawa              ,Computer Science,Timothy Lethbridge     ,SEG2105
+University of Ottawa              ,Computer Science,Timothy Lethbridge     ,CSI2911
+University of Ottawa              ,Computer Science,Timothy Lethbridge     ,ELG2911
+University of Ottawa              ,Computer Science,Timothy Lethbridge     ,CSI2105
+University of Ottawa              ,Computer Science,Timothy Lethbridge     ,SEG2911
+University of Ottawa              ,Computer Science,Timothy Lethbridge     ,SEG2100
+University of Ottawa              ,Computer Science,Timothy Lethbridge     ,SEG3300
+University of Ottawa              ,Computer Science,Timothy Lethbridge     ,SEG
+University of Ottawa              ,Computer Science,Timothy Lethbridge     ,SEGS2
+University of Ottawa              ,Computer Science,Liam Peyton            ,SEG4911
+University of Ottawa              ,Computer Science,Stephane Some          ,SEG3103
+University of Ottawa              ,Computer Science,Stephane Some          ,SEG3102
+University of Ottawa              ,Computer Science,Stephane Some          ,CSI5118
+University of Ottawa              ,Computer Science,Stephane Some          ,5118
+University of Ottawa              ,Computer Science,Stephane Some          ,SEG3203
+Simon Fraser University           ,Computer Science,Robert Cameron         ,CMPT276
+Simon Fraser University           ,Computer Science,Robert Cameron         ,CMPT384
+Simon Fraser University           ,Computer Science,Robert Cameron         ,CMPT473
+Simon Fraser University           ,Computer Science,Robert Cameron         ,CMPT212
+Simon Fraser University           ,Computer Science,Veronica Dahl          ,SCI303
+Simon Fraser University           ,Computer Science,Veronica Dahl          ,310
+Carleton University               ,Computer Science,Louis Nel              ,COMP2406
+Carleton University               ,Computer Science,Louis Nel              ,COMP2601
+Carleton University               ,Computer Science,Louis Nel              ,COMP1601
+Carleton University               ,Computer Science,Louis Nel              ,COMP2404
+Carleton University               ,Computer Science,Louis Nel              ,COMP 2406
+Carleton University               ,Computer Science,Louis Nel              ,COMP0
+Carleton University               ,Computer Science,Louis Nel              ,COMP3104
+Carleton University               ,Computer Science,Louis Nel              ,95305
+Carleton University               ,Computer Science,Louis Nel              ,106305
+Carleton University               ,Computer Science,Louis Nel              ,95106
+Carleton University               ,Computer Science,Louis Nel              ,9510695
+Carleton University               ,Computer Science,Robert Biddle          ,COMP3008
+Carleton University               ,Computer Science,Robert Biddle          ,HCIN5200
+Carleton University               ,Computer Science,Robert Biddle          ,5900
+Carleton University               ,Computer Science,Jean-Pierre Corriveau  ,COMP3004
+Carleton University               ,Computer Science,Dwight Deugo           ,3007
+Carleton University               ,Computer Science,Dwight Deugo           ,95495
+Carleton University               ,Computer Science,Dwight Deugo           ,COMP5400
+Carleton University               ,Computer Science,Dwight Deugo           ,95540
+Carleton University               ,Computer Science,Dwight Deugo           ,95307
+McGill University                 ,Computer Science,Jin Guo                ,COMP303
+McGill University                 ,Computer Science,Martin Robillard       ,COMP529
+McGill University                 ,Computer Science,Martin Robillard       ,303
+McGill University                 ,Computer Science,Hans Vangheluwe        ,2001WETMSI
+McGill University                 ,Computer Science,Hans Vangheluwe        ,1001WETCAR
+McGill University                 ,Computer Science,Hans Vangheluwe        ,COMP304
+McGill University                 ,Computer Science,Hans Vangheluwe        ,COMP304522
+McGill University                 ,Computer Science,Hans Vangheluwe        ,308435
+McGill University                 ,Computer Science,Hans Vangheluwe        ,308206
+McGill University                 ,Computer Science,Laurie Hendren         ,COMP621
+McGill University                 ,Computer Science,Laurie Hendren         ,308520
+McGill University                 ,Computer Science,Laurie Hendren         ,308202
+University of British Columbia    ,Computer Science,Ivan Beschastnikh      ,CPSC210
+University of British Columbia    ,Computer Science,Reid Holmes            ,CPSC310
+University of British Columbia    ,Computer Science,Gail Murphy            ,210
+University of British Columbia    ,Computer Science,Gail Murphy            ,CPSC211
+University of British Columbia    ,Computer Science,Gail Murphy            ,CPSC410
+University of Waterloo            ,Computer Science,Werner Dietl           ,ECE653
+University of Waterloo            ,Computer Science,Werner Dietl           ,ECE651
+University of Waterloo            ,Computer Science,Werner Dietl           ,ECE654
+University of Waterloo            ,Computer Science,Lin Tan                ,CS447
+University of Waterloo            ,Computer Science,Lin Tan                ,ECE453
+University of Waterloo            ,Computer Science,Lin Tan                ,CS647
+University of Waterloo            ,Computer Science,Lin Tan                ,SE491
+University of Waterloo            ,Computer Science,Victoria Sakhnini      ,CS246
+University of Waterloo            ,Computer Science,Mei Nagappan           ,CS446
+University of Waterloo            ,Computer Science,Mei Nagappan           ,CS846
+University of Waterloo            ,Computer Science,Arie Gurfinkel         ,ECE650
+University of Waterloo            ,Computer Science,Nomair Naeem           ,CS241
+University of Waterloo            ,Computer Science,Paulo Alencar          ,SE465
+University of Waterloo            ,Computer Science,Paulo Alencar          ,CS133
+University of Waterloo            ,Computer Science,Joanne Atlee           ,CS247
+University of Waterloo            ,Computer Science,Joanne Atlee           ,SE101
+University of Waterloo            ,Computer Science,Joanne Atlee           ,CS445
+University of Waterloo            ,Computer Science,Daniel Berry           ,CS645
+University of Waterloo            ,Computer Science,Daniel Berry           ,SE463
+University of Waterloo            ,Computer Science,Nancy Day              ,CS255
+University of Waterloo            ,Computer Science,Nancy Day              ,CS245SE
+University of Waterloo            ,Computer Science,Richard Trefler        ,CS745

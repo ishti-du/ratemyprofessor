@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a0462b8-d3c6-44c6-9ca7-6feff961d481" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/RateMyProfessor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/all_cs_students_comments.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/bibtex_sorter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/boxplot_ratings_sentiment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/boxplot_review_count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/cmpsc131.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/comment_count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/comments_for_maximum_rated_profs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/comments_summary_with_nltk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/cs_review_count.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/cs_student_sentiment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/eng_review_count.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/eng_student_sentiment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/json_all_comments_for_top_rated_professors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/json_all_comments_for_top_rated_professors_english.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/json_summary_cs_us_canada.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/json_summary_english_us_canada.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/meta_data_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/prof_with_online_courses.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/professors_with_online_courses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/rmp.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/rmp_cs_selenium_firefox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/student_sentiment_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/tag_comparison_hbar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/tag_count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_Science/tag_sentiment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/software_engineering/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/software_engineering/rmp.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/software_engineering/rmp_se_selenium_firefox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/software_engineering/se_faculty_data_all.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/software_engineering/se_faculty_data_who_teach_se_courses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/software_engineering/se_faculty_teaches_se_course_data_all.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/software_engineering/se_facutly_course_no.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/software_engineering/soft_eng.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/software_engineering/soft_eng.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/software_engineering/soft_eng_professors.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="108121105">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="3" />
+          <entry key="json" value="4" />
+          <entry key="log" value="5" />
+          <entry key="py" value="23" />
+          <entry key="pyi" value="1" />
+          <entry key="txt" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSV" value="3" />
+          <entry key="JSON" value="4" />
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="Python" value="23" />
+          <entry key="PythonStub" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="7453" />
+          <entry key="txt" value="31" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="31" />
+          <entry key="Python" value="7453" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/software_engineering/se_faculty_data_who_teach_se_courses.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="712">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/software_engineering/se_facutly_course_no.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/software_engineering/se_faculty_data_all.csv">
+          <provider selected="true" editor-type-id="csv-text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="ishti" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bibtex_sorter.py" />
+        <option value="$PROJECT_DIR$/cmpsc131.py" />
+        <option value="$PROJECT_DIR$/software_engineering/soft_eng_professors.txt" />
+        <option value="$PROJECT_DIR$/software_engineering/rmp_se_selenium_firefox.py" />
+        <option value="$PROJECT_DIR$/software_engineering/se_faculty_data_who_teach_se_courses.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1920" />
+    <option name="y" value="-157" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RateMyProfessor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RateMyProfessor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RateMyProfessor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RateMyProfessor" type="462c0819:PsiDirectoryNode" />
+              <item name="software_engineering" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/iuh129/PycharmProjects/RateMyProfessor/bibtex_sorter.py" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Computer_Science" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/software_engineering" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.se_faculty_data_who_teach_se_courses">
+    <configuration name="bibtex_sorter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RateMyProfessor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Computer_Science/bibtex_sorter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cmpsc131" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RateMyProfessor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Computer_Science/cmpsc131.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rmp_cs_selenium_firefox" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RateMyProfessor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Computer_Science/rmp_cs_selenium_firefox.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rmp_se_selenium_firefox" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RateMyProfessor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/software_engineering" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/software_engineering/rmp_se_selenium_firefox.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="se_faculty_data_who_teach_se_courses" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RateMyProfessor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/software_engineering" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/software_engineering/se_faculty_data_who_teach_se_courses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.bibtex_sorter" />
+      <item itemvalue="Python.cmpsc131" />
+      <item itemvalue="Python.rmp_se_selenium_firefox" />
+      <item itemvalue="Python.rmp_cs_selenium_firefox" />
+      <item itemvalue="Python.se_faculty_data_who_teach_se_courses" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.se_faculty_data_who_teach_se_courses" />
+        <item itemvalue="Python.rmp_se_selenium_firefox" />
+        <item itemvalue="Python.rmp_cs_selenium_firefox" />
+        <item itemvalue="Python.cmpsc131" />
+        <item itemvalue="Python.bibtex_sorter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a0462b8-d3c6-44c6-9ca7-6feff961d481" name="Default Changelist" comment="" />
+      <created>1567100491974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567100491974</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1920" y="-157" width="1920" height="1057" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1943128" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
+      <window_info anchor="bottom" x="-1910" y="135" width="1899" height="472" id="Run" order="2" type="WINDOWED" weight="0.50106156" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.50106156" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3299363" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1943128" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
+      <window_info anchor="bottom" x="-1910" y="135" width="1899" height="472" id="Run" order="2" type="WINDOWED" weight="0.50106156" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.50151974" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3299363" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Computer_Science/bibtex_sorter.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/software_engineering/se_faculty_data_who_teach_se_courses.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="se_faculty_dictionary.get(current_faculty)" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>se_faculty_dictionary.get(current_faculty)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.find_element_by_id(&quot;course-code&quot;)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>results_count.text</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.find_element_by_id('searchResultsBox')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>result_count.text</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>result_count[1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.find_elements_by_class_name('result-count')[1].text</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.find_elements_by_class_name('result-count')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>__py_debug_temp_var_2035452684</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>number_of_ratings[0].text</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>number_of_ratings[0].txt</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>number_of_ratings.text()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>number_of_ratings.text</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="504" column="14" lean-forward="true" selection-start-line="504" selection-start-column="14" selection-end-line="504" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Computer_Science/rmp_cs_selenium_firefox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="263" column="17" lean-forward="true" selection-start-line="263" selection-start-column="17" selection-end-line="263" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Computer_Science/cmpsc131.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/software_engineering/rmp_se_selenium_firefox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8932">
+          <caret line="312" column="50" selection-start-line="312" selection-start-column="50" selection-end-line="312" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9512">
+          <caret line="344" column="8" selection-start-line="344" selection-start-column="8" selection-end-line="344" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/software_engineering/soft_eng.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="80" selection-start-column="80" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/software_engineering/soft_eng.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="586" selection-start-line="1" selection-start-column="586" selection-end-line="1" selection-end-column="586" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/urllib3/util/retry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11049">
+          <caret line="397" selection-start-line="397" selection-end-line="397" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/software_engineering/soft_eng_professors.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3364">
+          <caret line="116" column="38" selection-start-line="116" selection-start-column="38" selection-end-line="116" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Computer_Science/json_summary_cs_us_canada.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="18" selection-end-line="18844" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Computer_Science/bibtex_sorter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/software_engineering/rmp.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="55" column="60" selection-start-line="55" selection-start-column="60" selection-end-line="55" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/software_engineering/se_faculty_data_who_teach_se_courses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="712">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/software_engineering/se_facutly_course_no.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/software_engineering/se_faculty_data_all.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+  </component>
+</project>
